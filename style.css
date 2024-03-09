@@ -233,9 +233,12 @@ a{
     height: 3.5rem;
     width: 3.5rem;
     margin-right: 0.58rem;
+    cursor: pointer;
 }
 .album-info{
     line-height: 10%;
+    cursor: pointer;
+
 }
 
 .player{
@@ -261,6 +264,7 @@ a{
     height: 1rem;
     margin-right: 1.75rem;
     opacity: 0.6;
+    cursor: pointer;
 }
 
 .player-control-icon:hover{
