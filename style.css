@@ -218,7 +218,24 @@ a{
 
 .album{
     width: 25%;
-    background-color: pink;
+    /* background-color: rgb(114, 84, 89); */
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+}
+.album-details{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.album img{
+    height: 3.5rem;
+    width: 3.5rem;
+    margin-right: 0.58rem;
+}
+.album-info{
+    line-height: 10%;
 }
 
 .player{
